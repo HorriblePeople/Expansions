@@ -7,6 +7,5 @@ Completed expansions:
 
 WIP expansions:
  * It's Practically Canon - An expansion devoted to fanon favorite pairs
- * Multiplicity - New options for START cards
  * Panels of Ponies - An expansion inspired by the official comics
  * Power Gaming - An expansion with new mechanics designed for the more sadistic players out there
