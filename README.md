@@ -9,3 +9,6 @@ WIP expansions:
  * It's Practically Canon - An expansion devoted to fanon favorite pairs
  * Panels of Ponies - An expansion inspired by the official comics
  * Power Gaming - An expansion with new mechanics designed for the more sadistic players out there
+ 
+ 
+Note from Shipmaster 001: These expansions belong to Horrible People Productions. I only borrowed the files so that I could complete the WIP expansions.
